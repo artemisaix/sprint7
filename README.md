@@ -48,3 +48,6 @@ Haz clic en el botón "Construir histograma" para generar un histograma del odó
 #### Scatterplot: Odómetro vs Precio
 
 Haz clic en el botón "Construir Scatterplot" para generar un scatterplot que muestra la relación entre el odómetro y el precio de los coches.
+
+### Repositorio
+[Repo Sprint 7](https://github.com/artemisaix/sprint7)
