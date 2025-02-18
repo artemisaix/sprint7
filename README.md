@@ -51,3 +51,6 @@ Haz clic en el botón "Construir Scatterplot" para generar un scatterplot que mu
 
 ### Repositorio
 [Repo Sprint 7](https://github.com/artemisaix/sprint7)
+
+### Liga Render
+[Sprint 7 Render](https://sprint7-xvuz.onrender.com)
